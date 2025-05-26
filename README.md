@@ -127,6 +127,7 @@ The script will:
 ### Competition Performance
 - **Final Score**: 0.6445
 - **Private Score**: 0.5611
+![Result](image.png)
 
 ### Output Format
 The model generates predictions in the required Kaggle competition format:
