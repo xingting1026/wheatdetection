@@ -157,13 +157,8 @@ The enhanced script will:
 
 ### Enhanced Competition Performance
 ![alt text](image-1.png)
-- **Final Public Score**: 0.7711 (significantly improved from 0.6445)
-- **Final Private Score**: 0.6733 (improved from 0.5611)
-
-### Performance Improvements Summary
-The enhanced model achieved substantial improvements through:
-- **+19.6%** improvement in public score (0.6445 → 0.7711)
-- **+20.0%** improvement in private score (0.5611 → 0.6733)
+- **Final Public Score**: 0.7711
+- **Final Private Score**: 0.6733
 
 ### Output Format
 The model generates predictions in the required Kaggle competition format:
@@ -221,7 +216,7 @@ The model generates predictions in the required Kaggle competition format:
 
 ## Conclusion
 
-This enhanced implementation demonstrates significant improvements over the baseline approach through systematic optimizations in model architecture, training strategy, and data utilization. The **19.6% improvement in public score** validates the effectiveness of the multi-faceted enhancement approach.
+This enhanced implementation demonstrates significant improvements over the baseline approach through systematic optimizations in model architecture, training strategy, and data utilization.
 
 ---
 
